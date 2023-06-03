@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="Send_Message">Send</string>
-    <string name="Message_recieve">Recieve</string>
-    <string name="Printing">Print</string>
+    <string name="Send">SEND</string>
+    <string name="Recieve">RECIEVE</string>
+    <string name="Print">PRINT</string>
 </resources>
